@@ -1,0 +1,10 @@
+.heading {
+    background-color: lightblue;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.recipe-link {
+    color: lightblue;
+}
